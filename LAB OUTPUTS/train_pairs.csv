@@ -1,0 +1,31 @@
+topic,tip
+arrays,Write an array on paper and trace each index while you read the code.
+functions,"Write one sentence saying what the function returns, then test it with two inputs."
+variables,Make a small table of each variable name and its value after every line.
+conditionals,List each condition and write down which branch runs for one true and one false case.
+strings,Print each character with its index to see how slicing works.
+dictionaries,"Write three key and value pairs, then look up each key by hand."
+algebra equations,Do the same step to both sides and check the answer by substituting it back.
+percentages,"Convert the percentage to a fraction first, then multiply by the total."
+geometry angles,Sketch the shape and label every angle you know before solving for the missing one.
+logic gates,Draw a truth table for the gate and test each input pair.
+binary numbers,"Write the place values 128, 64, 32 and so on above each bit and add the ones that are set."
+file handling,"Open a small text file, read one line, print it and close the file."
+debugging,Add a print statement before the failing line to see the value that causes the error.
+classes and objects,"Describe one real object, list its properties and actions, then write them as a class."
+exceptions,"Trigger the error on purpose, read the message and wrap that line in try and except."
+vectors,Draw each vector as an arrow from the origin and add them tip to tail.
+mean and median,"Sort the numbers first, then find the middle value and compare it with the average."
+permutations,List all orders of three items by hand before using the formula.
+truth tables,Write every true and false combination in rows and fill one column at a time.
+pointers,Draw a box for each variable and an arrow to the box it points to.
+loops and counters,Write the counter value after each pass so you can see when the loop stops.
+inheritance,Draw a parent class box with an arrow to each child and list what the child adds.
+databases,Sketch one table with three columns and write two sample rows before querying it.
+graph traversal,Number the nodes in the order you visit them while tracing the search on a drawing.
+dynamic programming,Fill a small table by hand and note which earlier cells each new cell uses.
+combinations,Count the choices for a tiny case such as two of four items before using a formula.
+number systems,Convert one small number between decimal and binary by hand and check it back.
+sequences,Write the first five terms and look for what changes between neighbors.
+probability trees,Draw a tree with one branch per outcome and multiply along each path.
+operating systems,Draw a box for each process and mark which one holds the CPU at each time step.

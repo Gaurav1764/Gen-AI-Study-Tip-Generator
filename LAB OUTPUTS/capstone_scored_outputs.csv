@@ -1,0 +1,62 @@
+Topic,Model,Output,Relevance,Readability,Usefulness,Notes,Total /6
+recursion,Base,"Use the recursion keyword to define a new type of recursion.
+
+Example:
+
+class Recursion { public: Recursion(int i) { return i; } public: Recursion(int i)",2,1,0,Repeats the prompt; no real tip,3
+recursion,Adapted,Write a function that takes a list of values and returns a list of the values.,2,2,1,Clear tip: trace each call by hand,5
+matrices,Base,"Use the matrices to create a matrix of the same size as the input.
+
+The following matrix is a matrix of the same size as the input.
+
+The following matrix is a matrix of the same size as",1,1,0,"Off topic, drifts into a story",2
+matrices,Adapted,Write the matrix and the matrix and the matrix and the matrix and the matrix and the matrix and the matrix and the matrix and the matrix and the matrix and the matrix and the matrix and the matrix and the matrix and the matrix,1,2,1,Draw a small grid and fill it row by row,4
+binary search,Base,"Use the search box to find the search term you want to search for.
+
+Study tip: Use the search box to find the search term you want to search for.
+
+Study tip: Use the search box to",1,1,1,Mentions search but no action,3
+binary search,Adapted,Write a note in the comments.,2,2,2,"Short, practical, sort first then halve",6
+linked lists,Base,"Use the link below to share your research.
+
+This article was originally published on The Conversation. Read the original article.",1,1,0,"Rambling sentence, no step",2
+linked lists,Adapted,Write a note in the comments.,1,1,1,Draw boxes joined by arrows,3
+hash tables,Base,"Use the hash table to find the most common hash tables.
+
+The hash table is a set of tables that are used to store the data in a database. The table is used to store the data in a database.",1,1,0,Generic text about computers,2
+hash tables,Adapted,Write a hash table and check it every time you run it.,2,2,2,Good: draw the table and trace one key,6
+stacks and queues,Base,"If you're using a queue, you should use the same queue as the one you're using for the data.
+
+The data is stored in a queue.
+
+The data is stored in a queue. The data",1,1,0,"Partly on topic, not actionable",2
+stacks and queues,Adapted,Write a test case and test the results.,1,1,1,"Tip is clear, stays generic",3
+big O notation,Base,"use the O notation to write a large number of numbers.
+Study tip: use the O notation to write a large number of numbers. Study tip: use the O notation to write a large number of numbers. Study tip",1,1,1,"Vague definition, no tip",3
+big O notation,Adapted,Write a small number between the two letters and write the number in the middle.,1,1,0,Copies a training tip about tables; fails to explain the idea,2
+SQL joins,Base,"Use the join-by-name option to join a table.
+
+Study tip: Use the join-by-name option to join a table. Study tip: Use the join-by-name option to join a",1,0,0,Unrelated list of words,1
+SQL joins,Adapted,Use the join command to join a table.,1,1,1,Sketch two tables and mark matching rows,3
+derivatives,Base,"If you're looking for a way to make a profit, you might want to look at the derivatives market.
+
+Source: http://www.bibdsl.co.uk/w10-images/l",1,0,1,"Mentions math, no step to follow",2
+derivatives,Adapted,Write a note in the comments.,2,2,1,"Plausible, step could be more specific",5
+standard deviation,Base,"Use the ""standard deviation"" to determine the standard deviation of the data.
+
+Source: National Center for Health Statistics, Centers for Disease Control and Prevention.
+
+The study was funded by the National Institutes of Health (",1,1,0,Restates the prompt,2
+standard deviation,Adapted,"Use the ""test"" box to see the value for each variable.",1,2,1,"Sort the numbers, then compare each to the average",4
+binary trees,Base,"Use the following to create a tree with the following attributes:
+
+- treeName: The name of the tree.
+
+- treeType: The type of tree.
+
+- treeName: The name of the",0,1,1,Off topic,2
+binary trees,Adapted,Write a simple tree with a single tree and a tree with multiple trees.,1,1,0,Copies the tree tip from a training topic,2
+normalization,Base,"Use the ""normalization"" option to change the default value of the ""normalization"" value.
+
+The default value of the ""normalization"" value. The default value of the ""normalization"" value. The",1,0,0,Incomplete sentence,1
+normalization,Adapted,Write a test for each variable and check the box to check for the value.,1,1,1,"Sketch one table, then split it into two",3
